@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on MrMorBlog</title>
+    <link>https://mrmorbello.github.io/tags/</link>
+    <description>Recent content in Tags on MrMorBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>mrmorbello@gmail.com (Gabriel Morbello)</managingEditor>
+    <webMaster>mrmorbello@gmail.com (Gabriel Morbello)</webMaster>
+    <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mrmorbello.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>computadoras</title>
+      <link>https://mrmorbello.github.io/tags/computadoras/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <author>mrmorbello@gmail.com (Gabriel Morbello)</author>
+      <guid>https://mrmorbello.github.io/tags/computadoras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dispositivos</title>
+      <link>https://mrmorbello.github.io/tags/dispositivos/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <author>mrmorbello@gmail.com (Gabriel Morbello)</author>
+      <guid>https://mrmorbello.github.io/tags/dispositivos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investigación</title>
+      <link>https://mrmorbello.github.io/tags/investigaci%C3%B3n/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <author>mrmorbello@gmail.com (Gabriel Morbello)</author>
+      <guid>https://mrmorbello.github.io/tags/investigaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salud</title>
+      <link>https://mrmorbello.github.io/tags/salud/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <author>mrmorbello@gmail.com (Gabriel Morbello)</author>
+      <guid>https://mrmorbello.github.io/tags/salud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teléfonos</title>
+      <link>https://mrmorbello.github.io/tags/tel%C3%A9fonos/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <author>mrmorbello@gmail.com (Gabriel Morbello)</author>
+      <guid>https://mrmorbello.github.io/tags/tel%C3%A9fonos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
