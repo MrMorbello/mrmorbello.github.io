@@ -1,4 +1,4 @@
-baseurl = "https://mrmorbello.github.io"
+baseurl = "https://mrmorbello.github.io/"
 DefaultContentLanguage = "es"
 title = "MrMorBlog"
 theme = "beautifulhugo"
