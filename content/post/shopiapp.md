@@ -3,7 +3,7 @@ title: Shopiapp
 subtitle: Descargas de Shopify
 date: 2023-01-06
 tags: ["webservice", "python", "interfaces"]
-draft : false
+draft : true
 ---
 
 <!-- Esta documentación quedará obsoleta tan pronto como se realicen cambios en la aplicación. En caso de actualizar, notificar a los usuarios - Gabriel P. Morbello 06.01.2023 -->
