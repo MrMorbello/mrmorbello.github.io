@@ -1,6 +1,6 @@
 baseurl = "https://mrmorbello.github.io/"
 DefaultContentLanguage = "es"
-title = "MrMorBlog"
+title = "Mr.MorBlog"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
