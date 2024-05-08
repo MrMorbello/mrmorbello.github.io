@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Salidas Gastronómicas</title>
+  <link rel="stylesheet" href="rstyles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Salidas Agustin</div>
+    <button class="btn-reservar">Reservar Ahora</button>
+  </header>
+
+  <main>
+    <h1>¡Reserva tu próxima salida a comer con un Agustin!</h1>
+    <p>Descubre los mejores restaurantes y reserva fácilmente tu mesa para disfrutar de una deliciosa comida con tu amigo. ¡Hace tu reserva morocha!</p>
+    <form>
+      <label for="fecha">Selecciona la fecha de tu salida:</label>
+      <input type="date" id="fecha" name="fecha">
+
+      <label for="hora">Selecciona la hora de tu reserva:</label>
+      <select id="hora" name="hora">
+        <option value="12:00">12:00 PM</option>
+        <option value="13:00">1:00 PM</option>
+        <option value="18:00">6:00 PM</option>
+        <!-- Otros horarios disponibles -->
+      </select>
+
+      <label for="restaurante">Elige el restaurante para tu salida:</label>
+      <select id="restaurante" name="restaurante">
+        <option value="restaurante1">Restaurante 1</option>
+        <option value="restaurante2">Restaurante 2</option>
+        <option value="restaurante3">Restaurante 3</option>
+        <!-- Otros restaurantes disponibles -->
+      </select>
+
+      <button type="submit">Reservar Mesa</button>
+    </form>
+  </main>
+
+  <footer>
+    <nav>
+      <a href="#">Inicio</a>
+      <a href="#">Sobre Nosotros</a>
+      <a href="#">Términos y Condiciones</a>
+      <a href="#">Contacto</a>
+    </nav>
+    <div class="contacto">
+      <p>Salidas Gastronómicas</p>
+      <p>Teléfono: +5491158155992</p>
+      <p>Email: delarosa.agustin@gmail.com</p>
+    </div>
+  </footer>
+</body>
+</html>
